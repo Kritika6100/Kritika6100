@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kritika Jain
-- 👀 I’m interested in ...Coding,Learning And Working on New Technology,Dancing 
+- 👀 I’m interested in ...Coding,Learning And Working on New Technology
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
